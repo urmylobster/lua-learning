@@ -45,4 +45,4 @@ luaVar = 'I am a global variable';
 
 -- 4.inexistence (equal to null in JavaScript)
 inexistenceVar = nil
-print('It will show nothing', inexistenceVar, 'you find no letter in the middle of sentence')
+print('It will show nothing', inexistenceVar, 'you will find no letter in the middle of sentence')

@@ -20,8 +20,6 @@ for k, v in pairs(table1) do
   print(k .. "==" .. v)
 end
 
--- weird, I got confused
--- todo
 -- Result:
 --[[
     nil
